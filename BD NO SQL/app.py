@@ -96,5 +96,5 @@ except Exception as e:
 
 #ELIMINAR TABLA
 
-table_name='tabla-johnestiven-restrepo2'
-response = dynamodb.delete_table(TableName=table_name)
+#table_name='tabla-johnestiven-restrepo2'
+#response = dynamodb.delete_table(TableName=table_name)
