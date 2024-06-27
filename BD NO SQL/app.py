@@ -1,3 +1,4 @@
+##EJERCICIOS DE DYNAMOBD AWS
 import boto3
 
 #Crear cliente para conexion a DynamoDB
